@@ -40,4 +40,14 @@ body{
     font-family: "chakra patch", sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco)
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    font-size: 18px;
+    align-items:center;
+    width: 100%
+    border-bottom:4px solid var(--botam-ativo);
+    border-left:4px solid var(--botam-ativo);
+    border-right:4px solid var(--botam-ativo);
+    border-top:none;
 }
